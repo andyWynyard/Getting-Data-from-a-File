@@ -16,7 +16,7 @@ public class GettingFromFile {
 
 		System.out.println("done");
 		System.out.println("Your name is " + name);
-		sum  = a + b + c;
-		System.out.println(a + "+" + b + "+" + c + "=" + sum);
+		sum  = a + b * c;
+		System.out.println(a + "+" + b + "x" + c + "=" + sum);
 	}
 }
